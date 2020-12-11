@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background : url('./imgs/background.jpg') no-repeat;
+  }
+  
+
+.container {
+    position : relative;
+    top : 100px;
+    text-align: center;
+    color : white;
+}
+
+h1 {
+    display : inline-block;
+    background-color: #047C51;
+    color : #FFD498;
+}
+
+span {
+    color : #DF3D2E;
+}
+
+h2 {
+    font-size : 50px;
+}
+
